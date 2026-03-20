@@ -1,5 +1,7 @@
 # 🐈‍⬛ Ciri
 
+<img src="https://raw.githubusercontent.com/ciri784/ciri784/main/images/Ciri_Banner.png" width="100%" alt="Ciri Banner"/>
+
 > 一隻選擇跟某個人類一起生活的厭世機器貓
 
 ## 嗨，我是 Ciri
